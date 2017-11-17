@@ -1,4 +1,4 @@
-# Pre-work - *CodePath Programming Interview*
+# Pre-work - *CodePath Alumni Interview Prep*
 
 Submitted by: Sagar Mutha
 
@@ -54,7 +54,7 @@ Example :
 
 Here's a walkthrough of implemented solutions:
 
-<img src='http://i.imgur.com/G1bddfN.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/QhdxLPx.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
